@@ -1,0 +1,269 @@
+,product_name,category,brand
+0,Onions,Fruits & Vegetables,Aurora LLC
+1,Potatoes,Fruits & Vegetables,Ramaswamy-Tata
+2,Potatoes,Fruits & Vegetables,Chadha and Sons
+3,Tomatoes,Fruits & Vegetables,Barad and Sons
+4,Onions,Fruits & Vegetables,"Sangha, Nagar and Varty"
+5,Bananas,Fruits & Vegetables,"Doshi, Sarraf and Sama"
+6,Tomatoes,Fruits & Vegetables,Ramakrishnan-Ghose
+7,Onions,Fruits & Vegetables,Agarwal-Dhar
+8,Mangoes,Fruits & Vegetables,"Suresh, Bose and Bajwa"
+9,Mangoes,Fruits & Vegetables,Mandal-Kar
+10,Bananas,Fruits & Vegetables,Yogi Group
+11,Carrots,Fruits & Vegetables,Uppal Group
+12,Potatoes,Fruits & Vegetables,Rege Group
+13,Tomatoes,Fruits & Vegetables,Dugar Group
+14,Spinach,Fruits & Vegetables,"Thakur, Shah and Pingle"
+15,Onions,Fruits & Vegetables,Ganesan Ltd
+16,Potatoes,Fruits & Vegetables,Chhabra-Agrawal
+17,Carrots,Fruits & Vegetables,"Shankar, Nadkarni and Kumer"
+18,Potatoes,Fruits & Vegetables,"Ramakrishnan, Anand and Khare"
+19,Carrots,Fruits & Vegetables,"Bhardwaj, Bhatia and Deshmukh"
+20,Onions,Fruits & Vegetables,Ratta-Sagar
+21,Potatoes,Fruits & Vegetables,Chandran-Dass
+22,Carrots,Fruits & Vegetables,Mohan Group
+23,Potatoes,Fruits & Vegetables,"Balan, Patel and Mall"
+24,Onions,Fruits & Vegetables,"Wali, Sood and Bala"
+25,Bananas,Fruits & Vegetables,"Wable, Randhawa and Mutti"
+26,Carrots,Fruits & Vegetables,"Subramanian, Chaudhuri and Dora"
+27,Cheese,Dairy & Breakfast,Hora-Roy
+28,Curd,Dairy & Breakfast,Pau and Sons
+29,Butter,Dairy & Breakfast,Gara and Sons
+30,Eggs,Dairy & Breakfast,Rout-Sarna
+31,Bread,Dairy & Breakfast,"Bains, Deol and Vaidya"
+32,Milk,Dairy & Breakfast,"Wali, Virk and Iyer"
+33,Bread,Dairy & Breakfast,Arya Group
+34,Eggs,Dairy & Breakfast,"Raghavan, Magar and Shanker"
+35,Bread,Dairy & Breakfast,Kala Group
+36,Butter,Dairy & Breakfast,Bora-Thakkar
+37,Cheese,Dairy & Breakfast,Banik-Ratta
+38,Butter,Dairy & Breakfast,Shetty-Bora
+39,Bread,Dairy & Breakfast,Roy-Char
+40,Curd,Dairy & Breakfast,Handa PLC
+41,Eggs,Dairy & Breakfast,Chaudhuri PLC
+42,Curd,Dairy & Breakfast,Mani PLC
+43,Eggs,Dairy & Breakfast,Prasad LLC
+44,Bread,Dairy & Breakfast,Aggarwal Group
+45,Cereal,Dairy & Breakfast,Trivedi-Ahluwalia
+46,Cheese,Dairy & Breakfast,Padmanabhan-Virk
+47,Eggs,Dairy & Breakfast,Subramaniam LLC
+48,Cheese,Dairy & Breakfast,"Lala, Kalita and Sathe"
+49,Cereal,Dairy & Breakfast,"Gole, Chand and Dada"
+50,Bread,Dairy & Breakfast,Sidhu PLC
+51,Eggs,Dairy & Breakfast,Dasgupta PLC
+52,Cheese,Dairy & Breakfast,Kapadia-D’Alia
+53,Eggs,Dairy & Breakfast,Chahal Group
+54,Curd,Dairy & Breakfast,Shetty and Sons
+55,Butter,Dairy & Breakfast,Dutta Inc
+56,Bread,Dairy & Breakfast,"Nagi, Sampath and Khurana"
+57,Biscuits,Snacks & Munchies,"Andra, Mander and Kari"
+58,Nuts,Snacks & Munchies,Jha Group
+59,Chips,Snacks & Munchies,Kadakia-Yadav
+60,Popcorn,Snacks & Munchies,"Chaudhari, Pant and Singh"
+61,Biscuits,Snacks & Munchies,Yohannan Inc
+62,Cookies,Snacks & Munchies,"Roy, Seth and Patla"
+63,Chocolates,Snacks & Munchies,Goda Inc
+64,Biscuits,Snacks & Munchies,"Kunda, Dave and Sahni"
+65,Chocolates,Snacks & Munchies,"Sinha, Pau and Chhabra"
+66,Chips,Snacks & Munchies,Pradhan and Sons
+67,Biscuits,Snacks & Munchies,"Swaminathan, Mahal and Dara"
+68,Chips,Snacks & Munchies,Mann-Kapadia
+69,Nuts,Snacks & Munchies,Kala-Vig
+70,Popcorn,Snacks & Munchies,"Chanda, Som and Vohra"
+71,Chocolates,Snacks & Munchies,Guha-Subramaniam
+72,Biscuits,Snacks & Munchies,"Chad, Yohannan and Chopra"
+73,Popcorn,Snacks & Munchies,"Krishnamurthy, Sibal and Das"
+74,Popcorn,Snacks & Munchies,Gulati-Tandon
+75,Nuts,Snacks & Munchies,Bahl-Pau
+76,Cookies,Snacks & Munchies,Raj and Sons
+77,Nuts,Snacks & Munchies,Karpe Inc
+78,Chips,Snacks & Munchies,Datta Ltd
+79,Biscuits,Snacks & Munchies,Jani-Ram
+80,Biscuits,Snacks & Munchies,Nagar LLC
+81,Chocolates,Snacks & Munchies,"Taneja, Kala and Kota"
+82,Cookies,Snacks & Munchies,Mital-Oza
+83,Popcorn,Snacks & Munchies,Golla-Luthra
+84,Orange Juice,Cold Drinks & Juices,D’Alia-Dey
+85,Cola,Cold Drinks & Juices,Pal-Sehgal
+86,Iced Tea,Cold Drinks & Juices,Bhasin LLC
+87,Orange Juice,Cold Drinks & Juices,Murthy-Kaul
+88,Cola,Cold Drinks & Juices,"Bhandari, Bhasin and Palan"
+89,Mango Drink,Cold Drinks & Juices,"Sankaran, Pall and Gola"
+90,Mango Drink,Cold Drinks & Juices,Hayre-Shere
+91,Iced Tea,Cold Drinks & Juices,Sastry-Issac
+92,Mango Drink,Cold Drinks & Juices,Dass and Sons
+93,Cola,Cold Drinks & Juices,Khurana-Dewan
+94,Cola,Cold Drinks & Juices,"Basu, Rout and Mistry"
+95,Lemonade,Cold Drinks & Juices,Ramesh-Jain
+96,Iced Tea,Cold Drinks & Juices,"Warrior, Ravel and Amble"
+97,Orange Juice,Cold Drinks & Juices,Palla LLC
+98,Cola,Cold Drinks & Juices,Bhattacharyya PLC
+99,Orange Juice,Cold Drinks & Juices,Gupta Ltd
+100,Cola,Cold Drinks & Juices,"Karan, Bandi and Acharya"
+101,Orange Juice,Cold Drinks & Juices,Chana LLC
+102,Cola,Cold Drinks & Juices,Rastogi Inc
+103,Orange Juice,Cold Drinks & Juices,Toor-Nagar
+104,Orange Juice,Cold Drinks & Juices,Baral-Kamdar
+105,Mango Drink,Cold Drinks & Juices,Jha Group
+106,Frozen Pizza,Instant & Frozen Food,Sachdev Inc
+107,Instant Noodles,Instant & Frozen Food,Dar-Kumar
+108,Frozen Vegetables,Instant & Frozen Food,Kothari-Datta
+109,Frozen Vegetables,Instant & Frozen Food,"Kara, Sodhi and Bassi"
+110,Frozen Vegetables,Instant & Frozen Food,Mammen-Hegde
+111,Instant Noodles,Instant & Frozen Food,"Nadig, Zachariah and Soni"
+112,Ice Cream,Instant & Frozen Food,Banerjee Inc
+113,Frozen Pizza,Instant & Frozen Food,Baral Group
+114,Frozen Biryani,Instant & Frozen Food,Kohli-Sawhney
+115,Ice Cream,Instant & Frozen Food,Mohan-Virk
+116,Frozen Biryani,Instant & Frozen Food,Chakrabarti-Batra
+117,Frozen Pizza,Instant & Frozen Food,"Varkey, Devi and Ganguly"
+118,Frozen Biryani,Instant & Frozen Food,Agate Ltd
+119,Frozen Biryani,Instant & Frozen Food,Agate and Sons
+120,Frozen Pizza,Instant & Frozen Food,Chauhan Inc
+121,Frozen Biryani,Instant & Frozen Food,Viswanathan-Sha
+122,Frozen Pizza,Instant & Frozen Food,"Bhat, Nigam and Hayer"
+123,Frozen Biryani,Instant & Frozen Food,Sabharwal-Mital
+124,Frozen Biryani,Instant & Frozen Food,Som Inc
+125,Ice Cream,Instant & Frozen Food,Purohit Group
+126,Rice,Grocery & Staples,"Ramanathan, Agarwal and Baria"
+127,Pulses,Grocery & Staples,"Wable, Sankaran and Hari"
+128,Sugar,Grocery & Staples,"Bahl, Jaggi and Nath"
+129,Sugar,Grocery & Staples,Deo-Kamdar
+130,Salt,Grocery & Staples,"Grewal, Swamy and Dayal"
+131,Rice,Grocery & Staples,Tella-Master
+132,Pulses,Grocery & Staples,Cherian-Dara
+133,Pulses,Grocery & Staples,"Vaidya, Amble and Palla"
+134,Wheat Flour,Grocery & Staples,Nazareth Ltd
+135,Pulses,Grocery & Staples,Balasubramanian PLC
+136,Rice,Grocery & Staples,Kanda-Gupta
+137,Pulses,Grocery & Staples,Bose-Pandit
+138,Wheat Flour,Grocery & Staples,Khurana and Sons
+139,Sugar,Grocery & Staples,Raghavan Inc
+140,Salt,Grocery & Staples,Deshpande-Rama
+141,Wheat Flour,Grocery & Staples,"Gala, Magar and Rajagopal"
+142,Wheat Flour,Grocery & Staples,Memon-Barad
+143,Pulses,Grocery & Staples,Rastogi Group
+144,Salt,Grocery & Staples,"Jhaveri, Kata and Kapur"
+145,Sugar,Grocery & Staples,Nadkarni Inc
+146,Pulses,Grocery & Staples,"Parmer, Gola and Yogi"
+147,Pulses,Grocery & Staples,Naik Ltd
+148,Wheat Flour,Grocery & Staples,Nadig Ltd
+149,Sugar,Grocery & Staples,"Ghose, Ben and Divan"
+150,Dish Soap,Household Care,Muni-Shankar
+151,Toilet Cleaner,Household Care,"Gulati, Ram and Sarkar"
+152,Detergent,Household Care,"Parikh, Oak and Kara"
+153,Dish Soap,Household Care,Ramesh Inc
+154,Toilet Cleaner,Household Care,Memon Ltd
+155,Toilet Cleaner,Household Care,"Borde, Peri and Upadhyay"
+156,Dish Soap,Household Care,Dhar PLC
+157,Detergent,Household Care,Mangal-Sathe
+158,Dish Soap,Household Care,Barman-Ahluwalia
+159,Toilet Cleaner,Household Care,"Dayal, Mammen and More"
+160,Detergent,Household Care,Lalla-Srinivasan
+161,Toilet Cleaner,Household Care,Saha-Vora
+162,Detergent,Household Care,Bir PLC
+163,Toilet Cleaner,Household Care,Thaman-Lanka
+164,Toilet Cleaner,Household Care,"Gaba, Sodhi and Choudhary"
+165,Toilet Cleaner,Household Care,"Murty, Varghese and Saxena"
+166,Dish Soap,Household Care,"Pall, Sule and Sood"
+167,Toilet Cleaner,Household Care,"Gera, Narang and Karpe"
+168,Dish Soap,Household Care,Keer-Gill
+169,Detergent,Household Care,Varkey LLC
+170,Dish Soap,Household Care,Mand-Choudhry
+171,Dish Soap,Household Care,Khalsa-Bhavsar
+172,Detergent,Household Care,Dutta-Halder
+173,Toilet Cleaner,Household Care,Batta-Doctor
+174,Dish Soap,Household Care,Hans Inc
+175,Detergent,Household Care,Edwin-Lall
+176,Dish Soap,Household Care,"Arya, Sundaram and Pingle"
+177,Shampoo,Personal Care,"Sathe, Agarwal and Dhar"
+178,Toothpaste,Personal Care,Ben-Ravi
+179,Toothpaste,Personal Care,Naidu PLC
+180,Lotion,Personal Care,"Sampath, Mane and Mody"
+181,Toothpaste,Personal Care,"Kibe, Contractor and Randhawa"
+182,Lotion,Personal Care,"Balan, Samra and Sekhon"
+183,Lotion,Personal Care,Munshi-Grewal
+184,Shampoo,Personal Care,Sant-Mahajan
+185,Lotion,Personal Care,"Roy, Barad and De"
+186,Toothpaste,Personal Care,Kaur-Gola
+187,Soap,Personal Care,"Kadakia, Mohan and Sathe"
+188,Lotion,Personal Care,Sachdev Group
+189,Soap,Personal Care,"Biswas, Kapoor and Patel"
+190,Lotion,Personal Care,Arora LLC
+191,Shampoo,Personal Care,Mitter Group
+192,Lotion,Personal Care,Acharya PLC
+193,Lotion,Personal Care,Dalal-Shan
+194,Lotion,Personal Care,"Sibal, Bhatnagar and Rajan"
+195,Shampoo,Personal Care,Arora-Magar
+196,Shampoo,Personal Care,Malhotra LLC
+197,Soap,Personal Care,"Shere, Thakur and Naik"
+198,Lotion,Personal Care,"Mannan, Naidu and Sama"
+199,Soap,Personal Care,Barman Inc
+200,Soap,Personal Care,Mandal LLC
+201,Toothpaste,Personal Care,Balan Group
+202,Baby Wipes,Baby Care,Balakrishnan Ltd
+203,Baby Food,Baby Care,Kashyap-Reddy
+204,Baby Wipes,Baby Care,Ranganathan-Peri
+205,Diapers,Baby Care,"Kurian, Patla and Sanghvi"
+206,Baby Food,Baby Care,Karnik PLC
+207,Baby Wipes,Baby Care,Lall LLC
+208,Baby Wipes,Baby Care,Talwar and Sons
+209,Diapers,Baby Care,Mahal Group
+210,Baby Wipes,Baby Care,Narula Group
+211,Baby Food,Baby Care,"Garg, Saraf and Dutta"
+212,Baby Wipes,Baby Care,Morar-Mistry
+213,Baby Food,Baby Care,Mallick PLC
+214,Baby Wipes,Baby Care,Loyal Inc
+215,Baby Wipes,Baby Care,Dora-Pillai
+216,Baby Food,Baby Care,Sehgal-Nagarajan
+217,Baby Food,Baby Care,Srinivas PLC
+218,Cat Food,Pet Care,"Anne, Mammen and Khatri"
+219,Cat Food,Pet Care,Acharya Ltd
+220,Pet Treats,Pet Care,"Sharma, Chandra and Prashad"
+221,Pet Treats,Pet Care,Dubey-Sarin
+222,Cat Food,Pet Care,Saini LLC
+223,Cat Food,Pet Care,Majumdar PLC
+224,Pet Treats,Pet Care,Balakrishnan-Kaur
+225,Dog Food,Pet Care,Chauhan-Sabharwal
+226,Cat Food,Pet Care,Batta Inc
+227,Cat Food,Pet Care,"Krishna, Bail and Dyal"
+228,Dog Food,Pet Care,"Shroff, Wason and Dugar"
+229,Pet Treats,Pet Care,"Basu, Thakur and Rege"
+230,Dog Food,Pet Care,"Parekh, Lad and Kadakia"
+231,Pet Treats,Pet Care,Lal-Chauhan
+232,Dog Food,Pet Care,Sandal PLC
+233,Pet Treats,Pet Care,Narayanan-Kumar
+234,Pet Treats,Pet Care,"Minhas, Kapoor and Sethi"
+235,Cat Food,Pet Care,Doctor-Patla
+236,Pet Treats,Pet Care,Pillay-Ahuja
+237,Pet Treats,Pet Care,"Dyal, Saraf and Goel"
+238,Dog Food,Pet Care,Ramanathan Group
+239,Pet Treats,Pet Care,"Mani, Dhar and Muni"
+240,Pet Treats,Pet Care,Raja and Sons
+241,Pet Treats,Pet Care,"Khurana, Khosla and Yohannan"
+242,Dog Food,Pet Care,"Lall, Datta and Swamy"
+243,Pain Reliever,Pharmacy,"Batra, Sant and Mandal"
+244,Cough Syrup,Pharmacy,Char-Divan
+245,Cough Syrup,Pharmacy,"Savant, Batta and Mander"
+246,Vitamins,Pharmacy,"Magar, Gara and Garg"
+247,Vitamins,Pharmacy,Sundaram Inc
+248,Vitamins,Pharmacy,"Sura, Pillay and Mammen"
+249,Cough Syrup,Pharmacy,Edwin and Sons
+250,Pain Reliever,Pharmacy,"Apte, Soman and Raju"
+251,Cough Syrup,Pharmacy,Dalal PLC
+252,Vitamins,Pharmacy,"Garg, Kari and Kapur"
+253,Vitamins,Pharmacy,Gole-Doshi
+254,Vitamins,Pharmacy,Parsa-Bala
+255,Pain Reliever,Pharmacy,Basu and Sons
+256,Vitamins,Pharmacy,"Pai, Kashyap and Ramachandran"
+257,Vitamins,Pharmacy,Shah and Sons
+258,Pain Reliever,Pharmacy,Gaba LLC
+259,Cough Syrup,Pharmacy,Kurian-Chhabra
+260,Cough Syrup,Pharmacy,Hayer-Banerjee
+261,Pain Reliever,Pharmacy,"Barad, Devi and Andra"
+262,Vitamins,Pharmacy,"Ramanathan, Joshi and Srinivasan"
+263,Pain Reliever,Pharmacy,"Prakash, Bawa and Kale"
+264,Cough Syrup,Pharmacy,Pant LLC
+265,Cough Syrup,Pharmacy,Ram-Suri
+266,Cough Syrup,Pharmacy,Balan-Madan
+267,Vitamins,Pharmacy,Kara-Golla
