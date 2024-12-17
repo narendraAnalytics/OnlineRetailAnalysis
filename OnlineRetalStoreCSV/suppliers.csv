@@ -1,0 +1,101 @@
+SupplierID,SupplierName,ContactNumber,Email,City,State
+SUPPLIER1,"Arora, D’Alia and Date",03247862522,fom@example.com,Ozhukarai,Tamil Nadu
+SUPPLIER2,Sankaran-Basak,+915153179504,padmanabhananjali@example.org,Munger,Tripura
+SUPPLIER3,"Sura, Kari and Sekhon",6922178685,dominicsom@example.net,Tadepalligudem,Uttarakhand
+SUPPLIER4,Kalita Group,02586348051,lankaradha@example.com,Bardhaman,Tripura
+SUPPLIER5,Divan-Kakar,09788250691,daniel05@example.org,Aurangabad,Madhya Pradesh
+SUPPLIER6,Devan-Mishra,4496192122,yugvora@example.com,Bikaner,Karnataka
+SUPPLIER7,Khatri LLC,+911723313013,kashyaparadhana@example.com,Jabalpur,Uttar Pradesh
+SUPPLIER8,"Gara, Ahuja and Solanki",0447866207,nicholas91@example.net,Rampur,Andhra Pradesh
+SUPPLIER9,"Mutti, Parmar and Pillay",04077684878,ramaswamymohini@example.org,Agartala,Kerala
+SUPPLIER10,Sant-Sachar,+911899974105,fchand@example.net,Nagercoil,Arunachal Pradesh
+SUPPLIER11,Hegde and Sons,+916214481923,bansalaadhya@example.net,Davanagere,Tamil Nadu
+SUPPLIER12,"Vohra, Nadig and Subramaniam",09349032374,faqidhegde@example.org,Anand,Nagaland
+SUPPLIER13,Ben-Pathak,03050292315,yahvi23@example.com,Vijayawada,Andhra Pradesh
+SUPPLIER14,"Sawhney, Brahmbhatt and Bal",9285165553,mahajanbakhshi@example.com,Alappuzha,West Bengal
+SUPPLIER15,Soni Ltd,02255251797,cheemaparth@example.net,Kumbakonam,Sikkim
+SUPPLIER16,Chatterjee Inc,07517799006,qbhardwaj@example.net,Vellore,Madhya Pradesh
+SUPPLIER17,Malhotra-Kalita,5601917367,madhavi10@example.org,Dehri,Karnataka
+SUPPLIER18,Sachar-Rout,0970130995,varshapalan@example.com,South Dumdum,Uttarakhand
+SUPPLIER19,Nadig Inc,00858226699,snehamody@example.org,Chapra,Tripura
+SUPPLIER20,Sha LLC,+910777856351,chhabrarachana@example.net,Rewa,Odisha
+SUPPLIER21,Tiwari-Sharaf,04732723858,arunimaparsa@example.com,Tenali,Gujarat
+SUPPLIER22,Raman-Warrior,09956754280,bathzaitra@example.org,Kirari Suleman Nagar,Punjab
+SUPPLIER23,Uppal-Dash,+915483969464,ushan@example.net,Latur,Himachal Pradesh
+SUPPLIER24,Sachar-Pillai,08576530391,zehaanmisra@example.net,Farrukhabad,Arunachal Pradesh
+SUPPLIER25,Pant-Suri,6840990747,upadhritinath@example.org,Jalna,West Bengal
+SUPPLIER26,Loke PLC,+915937964974,gvarughese@example.com,Loni,Kerala
+SUPPLIER27,"Chakraborty, Pall and Bhargava",+917973557247,loketriveni@example.org,Lucknow,Bihar
+SUPPLIER28,"Amble, Konda and Kothari",00669819931,advaithkant@example.net,Muzaffarpur,Tripura
+SUPPLIER29,Korpal Inc,05235887087,regeaarini@example.com,Gaya,Mizoram
+SUPPLIER30,"Pradhan, Parekh and Zacharia",+911604755680,ishabora@example.net,Bhagalpur,Nagaland
+SUPPLIER31,Narayanan-Magar,4098365051,ati86@example.org,Kavali,Bihar
+SUPPLIER32,Sarraf-Mukherjee,03242272250,daveharish@example.com,Vijayawada,Jharkhand
+SUPPLIER33,"Dewan, Ganesh and Dash",3661459094,ldara@example.com,Shivpuri,Haryana
+SUPPLIER34,Trivedi and Sons,+919324852414,wazir49@example.org,Cuttack,Himachal Pradesh
+SUPPLIER35,Patil-Basu,9450179799,bhasinurishilla@example.org,Bhind,Meghalaya
+SUPPLIER36,"Sengupta, Parekh and Jha",+915816264484,theodore64@example.com,Madhyamgram,Assam
+SUPPLIER37,"Puri, Dutt and Kannan",04942532282,guhapooja@example.com,Jamnagar,Mizoram
+SUPPLIER38,Bhakta and Sons,+919473494808,max88@example.org,Vijayanagaram,West Bengal
+SUPPLIER39,Datta-Hora,6363602894,rgoda@example.org,Agra,Himachal Pradesh
+SUPPLIER40,Patla-Choudhry,+917896414768,cbrar@example.com,Ambattur,Chhattisgarh
+SUPPLIER41,Krishnan-Minhas,8119043727,falananand@example.net,Siliguri,Jharkhand
+SUPPLIER42,Dey-Baral,09523128838,unnatibajwa@example.com,Bharatpur,Tripura
+SUPPLIER43,"Barad, Shenoy and Pall",+912092120499,pbath@example.org,Vijayawada,Andhra Pradesh
+SUPPLIER44,Sura-Barad,4564085944,hbatra@example.com,Gopalpur,Rajasthan
+SUPPLIER45,Tank-Tak,+918366886980,vihaangera@example.com,Rewa,Nagaland
+SUPPLIER46,Hans-Sarna,7807811708,sarinleela@example.com,Firozabad,Tripura
+SUPPLIER47,Modi PLC,7942716956,msengupta@example.net,Kolkata,Manipur
+SUPPLIER48,Bail Inc,+917173651208,aadhya92@example.org,Jammu,Uttarakhand
+SUPPLIER49,"Kapadia, Korpal and Tandon",+913798792248,gpuri@example.com,Proddatur,Uttar Pradesh
+SUPPLIER50,Lad-Yadav,09814487791,mannanjalsa@example.net,Khammam,Sikkim
+SUPPLIER51,Sastry-Soman,8246104727,zansibajwa@example.net,Pondicherry,Haryana
+SUPPLIER52,"Thakur, Wali and Bora",6875222144,dashjagvi@example.org,Chinsurah,Gujarat
+SUPPLIER53,"Patil, Anne and Saran",04270091071,sathedev@example.net,Bhilwara,Telangana
+SUPPLIER54,Parsa Group,6101641491,wkothari@example.org,Parbhani,Arunachal Pradesh
+SUPPLIER55,Srinivasan-Saha,8357260183,qasim34@example.com,Belgaum,Odisha
+SUPPLIER56,Sharma-Ravi,8165375604,shuklajeet@example.org,Secunderabad,Rajasthan
+SUPPLIER57,Shanker-Uppal,+912201809856,fchaudhuri@example.net,Muzaffarnagar,Uttarakhand
+SUPPLIER58,Gupta Inc,09718152493,anmolraju@example.com,Buxar,Goa
+SUPPLIER59,Boase-Walia,5020809091,dmishra@example.net,Saharsa,Gujarat
+SUPPLIER60,"Bains, Karan and Deshpande",02437188197,advikakakar@example.com,Mehsana,Tripura
+SUPPLIER61,Mody and Sons,01543838890,awalla@example.net,Mau,Maharashtra
+SUPPLIER62,Chahal and Sons,+911789221011,tejassethi@example.org,Dehradun,Haryana
+SUPPLIER63,Ratta Inc,8046465285,gsarraf@example.org,Latur,Odisha
+SUPPLIER64,Rao and Sons,03181819789,danielmann@example.net,Visakhapatnam,Haryana
+SUPPLIER65,"Sachar, Raja and Sarma",+919797015507,abalan@example.com,Miryalaguda,Andhra Pradesh
+SUPPLIER66,Prakash-Mohanty,5045661839,chackogirik@example.com,Kozhikode,Arunachal Pradesh
+SUPPLIER67,Basu-Prasad,5937332071,hdar@example.org,Sikar,Bihar
+SUPPLIER68,Borra LLC,+918232357799,cdeep@example.com,Nangloi Jat,Madhya Pradesh
+SUPPLIER69,Nagarajan-Varma,09029194156,qadimgoda@example.com,Kamarhati,Mizoram
+SUPPLIER70,Panchal-Sathe,06119500402,arunima92@example.net,Muzaffarpur,Tripura
+SUPPLIER71,Sibal-Wable,04519106195,qkannan@example.net,Mysore,Goa
+SUPPLIER72,Sunder-Thaman,02650664073,labanraja@example.com,Thoothukudi,Jharkhand
+SUPPLIER73,"Sagar, Warrior and Om",0808468394,xloke@example.com,Aurangabad,Manipur
+SUPPLIER74,Kakar Inc,+914123972223,banjeetsaraf@example.org,Jaunpur,Himachal Pradesh
+SUPPLIER75,Oommen-Bhatnagar,0463285199,ladli21@example.net,Nangloi Jat,Chhattisgarh
+SUPPLIER76,"Chawla, Shere and Hans",05440529605,sulehemang@example.com,Warangal,Jharkhand
+SUPPLIER77,"Sami, Shankar and Murty",8525585258,nakulthakur@example.net,Yamunanagar,Telangana
+SUPPLIER78,"Sastry, Oak and Doctor",+917666826973,odika89@example.com,Kakinada,Manipur
+SUPPLIER79,Swamy-Naidu,03831638033,kashish32@example.net,Rourkela,Nagaland
+SUPPLIER80,"Kannan, Reddy and Chaudry",08902432142,vdar@example.com,Giridih,Himachal Pradesh
+SUPPLIER81,Mangal Inc,9851088249,naiknathaniel@example.net,Sasaram,Odisha
+SUPPLIER82,Ram LLC,8382233695,ekalinga75@example.org,Burhanpur,Himachal Pradesh
+SUPPLIER83,"Chaudhry, Mangal and Mutti",03241711110,chakrikapau@example.com,Bijapur,Goa
+SUPPLIER84,"Bal, Dar and Hora",08070380160,oviya57@example.net,Solapur,Mizoram
+SUPPLIER85,"Chokshi, Bhasin and Brahmbhatt",+915334137230,gunbirhayre@example.net,Maheshtala,Gujarat
+SUPPLIER86,Korpal and Sons,05761701153,anjali41@example.org,Karimnagar,Bihar
+SUPPLIER87,Sachar-Boase,+912457888507,maanavpatil@example.com,Muzaffarpur,Kerala
+SUPPLIER88,Padmanabhan PLC,2716848562,jagrati54@example.net,Dewas,Rajasthan
+SUPPLIER89,"Mane, Rastogi and Iyengar",9808333678,tristan88@example.net,Sirsa,Goa
+SUPPLIER90,Agarwal Group,1496465931,qmaster@example.org,Ajmer,Himachal Pradesh
+SUPPLIER91,Dora Inc,+910650191955,oakaditya@example.net,Davanagere,Rajasthan
+SUPPLIER92,Prabhakar Inc,04557520195,ramankamya@example.org,Jaunpur,Uttar Pradesh
+SUPPLIER93,Sarin-Chandran,+910112852686,rajata60@example.org,Arrah,Meghalaya
+SUPPLIER94,Batta-Naik,07858076311,vsoni@example.org,Yamunanagar,Punjab
+SUPPLIER95,"Buch, Pillay and Sandhu",03731953663,enair@example.org,Karawal Nagar,Uttar Pradesh
+SUPPLIER96,Zachariah-Badal,0315340014,bajajpavani@example.net,Sri Ganganagar,Gujarat
+SUPPLIER97,"Natarajan, Bali and Chawla",+915999931759,omya18@example.org,Gaya,Andhra Pradesh
+SUPPLIER98,Mohanty-Sharma,7879959782,kbhatti@example.org,Cuttack,Chhattisgarh
+SUPPLIER99,Lall-Agrawal,09657875077,obose@example.com,Munger,Manipur
+SUPPLIER100,"Dubey, Nagy and D’Alia",+919553588252,dayita30@example.org,Faridabad,West Bengal
