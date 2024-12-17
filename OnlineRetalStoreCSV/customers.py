@@ -27,7 +27,7 @@ data = {
     "Name": [fake.name() for _ in range(num_customers)],
     "Email": [fake.email() for _ in range(num_customers)],
     "Phone": [fake.phone_number() for _ in range(num_customers)],
-    "Address": [f"{fake.street_address()}, {random.choice(indian_cities)}" for _ in range(num_customers)],
+    "City": [random.choice(indian_cities) for _ in range(num_customers)],
     "RegistrationDate": [
         fake.date_between_dates(date_start=start_date, date_end=end_date) for _ in range(num_customers)
     ],
@@ -39,7 +39,17 @@ data = {
 customers_df = pd.DataFrame(data)
 
 # Save to CSV
-output_file = "customers_data.csv"
+output_file = "customers.csv"
 customers_df.to_csv(output_file, index=False)
 
 print(f"Generated data for {num_customers} customers and saved to {output_file}.")
+
+# In GitHub Codespaces Terminal:
+# 1. Install necessary packages:
+#    ```bash
+#    pip install pandas faker
+#    ```
+# 2. Run the Python script:
+#    ```bash
+#    python generate_customers_data.py
+#    ```
